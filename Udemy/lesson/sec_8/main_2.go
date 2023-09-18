@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var s string = "1000"
+	var s string = "A"
 
 	i, err := strconv.Atoi(s)
 
